@@ -1,0 +1,4 @@
+ - TypeScript 入门教程（中文）：https://ts.xcatliu.com/
+ - TypeScript 官方文档：https://www.typescriptlang.org/
+ - TypeScript 练习题（从入门到进阶）：https://github.com/typescript-exercises/typescript-exercises
+ - TS to JS：https://www.typescriptlang.org/play/
