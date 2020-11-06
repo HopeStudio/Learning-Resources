@@ -1,5 +1,8 @@
 # common
 
+## resources
+- [frontend-development](https://github.com/developer-resources/frontend-development)
+
 ## ebook for JavaScript
 
 - [JavaScript for Data Science](https://js4ds.org/)
